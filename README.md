@@ -1,4 +1,4 @@
-Hi i'm Phill I Just like coding lol
+Hi i'm Phill I just like coding lol
 
 
 ![](https://komarev.com/ghpvc/?username=ItBePhill)
